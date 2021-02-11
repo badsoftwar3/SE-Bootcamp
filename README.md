@@ -1,1 +1,1 @@
-http://SE-Bootcamp
+http://SE-Bootcamp.github.io
